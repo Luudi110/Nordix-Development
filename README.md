@@ -1,2 +1,2 @@
 # Nordix-Development
-Nordix Development Website
+Nordix Development Hjemmeside
