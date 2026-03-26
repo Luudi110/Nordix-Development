@@ -371,7 +371,9 @@ if ('IntersectionObserver' in window) {
 }
 
 // ============================================
-// INITIALIZATION
+// CONTACT CTA SMOOTH SCROLL
 // ============================================
 
-console.log('Nordix Development website loaded successfully!');
+function scrollToContact() {
+    window.location.href = 'index.html#contact';
+}
